@@ -41,8 +41,10 @@ o	Internal marks impact total marks
 ________________________________________
 3. Visualization
 Used charts to understand data clearly:
-•	Bar chart → student marks comparison 
-•	Histogram → distribution of marks 
+•	Bar chart → student marks comparison
+<img width="576" height="425" alt="barchartvis" src="https://github.com/user-attachments/assets/60342c80-0cdb-4b54-b488-46e464841974" />
+•	Histogram → distribution of marks
+<img width="530" height="396" alt="histogramvis" src="https://github.com/user-attachments/assets/9683bcac-6b25-4120-8c8f-f6fedb047ef4" />
 •	Pie chart → pass/fail percentage 
 •	Scatter plot → attendance vs marks 
 ________________________________________
